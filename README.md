@@ -69,6 +69,9 @@ The application works on all modern browsers including:
 - Firefox
 - Safari
 - Edge
+## Screeshots 
+![Screenshot 2025-01-22 220545](https://github.com/user-attachments/assets/50ced0c7-b44a-40b7-b179-dcb8f991bc8c)
+
 
 ## License
 
